@@ -1,0 +1,1 @@
+The goal of the program was to use iteration to create a variety of patterns using ASCII characters.
